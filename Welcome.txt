@@ -1,1 +1,1 @@
-Welcome to SCM with Git
+Welcome to Source code management with Git training
